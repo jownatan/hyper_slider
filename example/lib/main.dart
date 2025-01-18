@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                 "https://cdn-icons-png.flaticon.com/512/743/743206.png",
                 "https://cdn-icons-png.flaticon.com/512/743/743300.png"
               ],
-              imageLabels: ["Confused", "Rolling Eyes", "Neutral", "Grinning", "Heart Eyes"],
+              imageLabels: ["Confused", "Rolling Eyes", "Neutral", "Happy", "Super Happy"],
               onChanged: (index) {
                 print('Selected index: $index');
               },
