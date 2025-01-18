@@ -4,6 +4,9 @@
 
 With **HyperSlider**, you can easily integrate image-based or custom content sliders into your app, all while enjoying smooth transitions and flexibility to customize it to your needs.
 
+![alt text](https://raw.githubusercontent.com/jownatan/hyper_slider/refs/heads/main/image%20(1).png)
+![alt text](https://raw.githubusercontent.com/jownatan/hyper_slider/refs/heads/main/image%20(2).png)
+
 ## Features
 
 - Customizable slider with smooth animations
@@ -24,7 +27,8 @@ SizedBox(
   child: HyperSlider(
     radius: 8,
     imageUrls: [
-      // Put your image URLs here
+      // Put your image urls here // Credits: https://www.flaticon.com and https://www.flaticon.com/authors/vectors-market
+      // These images are not the sames as the ones in the pub.dev video
       "https://cdn-icons-png.flaticon.com/128/742/742752.png",
       "https://cdn-icons-png.flaticon.com/512/743/743219.png",
       "https://cdn-icons-png.flaticon.com/128/742/742774.png",
