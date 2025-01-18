@@ -5,7 +5,6 @@
 With **HyperSlider**, you can easily integrate image-based or custom content sliders into your app, all while enjoying smooth transitions and flexibility to customize it to your needs.
 
 ![alt text](https://raw.githubusercontent.com/jownatan/hyper_slider/refs/heads/main/image%20(1).png)
-![alt text](https://raw.githubusercontent.com/jownatan/hyper_slider/refs/heads/main/image%20(2).png)
 
 ## Features
 
