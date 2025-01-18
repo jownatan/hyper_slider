@@ -1,7 +1,8 @@
 name: hyper_slider
 description: A customizable slider with images and labels for Flutter.
 version: 0.1.0
-homepage:
+homepage: https://github.com/jownatan/hyper_slider
+repository: https://github.com/jownatan/hyper_slider
 
 environment:
   sdk: ^3.6.0
